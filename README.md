@@ -1,28 +1,26 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 # Mi Card
 
-## Our Goal
+<img width="300" alt="Screen Shot 2020-04-13 at 16 58 24" src="https://user-images.githubusercontent.com/43631528/79103858-56a73d80-7da8-11ea-8fd5-c6a6a2d3007a.png">
 
-Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
+The 2nd App form  Angela Yu's Flutter course on Udemy.
+https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14482110#overview
 
-## What you will create
+## Contents 
+- Create Steleless Widgets (43)
+- Hot Reload and Hot Restart (43)
+- Layout Widget (43) (https://flutter.dev/docs/development/ui/widgets/layout)
+- Container Widget (43) (https://api.flutter.dev/flutter/widgets/Container-class.html)
+  - A Container Widget can have only one child. 
+- SafeArea
+- mainAxisAlignment & crosAxisAlignment (43)
+- SizedBox
+- Column (47)
+- Circle Avatar 
+- Google Fonts (https://fonts.google.com/) (48)
+- Add Material Icon (https://api.flutter.dev/flutter/material/Icons-class.html) (49)
+  - material design palette (https://www.materialpalette.com/)
+- Card & ListTile Widget (https://api.flutter.dev/flutter/material/ListTile-class.html) (50)
 
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
-
-## What you will learn
-
-* How to create Stateless Widgets
-* What is the difference between hot reload and hot refresh and running an app from cold
-* How to use Containers to lay out your UI
-* How to use Columns and Rows to position your UI elements
-* How to add custom fonts
-* How to add Material icons
-* How to style Text widgets
-* How to read and use Flutter Documentation
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+### Source 
+Section 6: MiCard - How to Build
+Beautiful UIs with Flutter Widgets
